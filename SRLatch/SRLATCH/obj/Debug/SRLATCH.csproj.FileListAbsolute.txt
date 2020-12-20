@@ -1,0 +1,10 @@
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\bin\Debug\SRLATCH.exe.config
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\bin\Debug\SRLATCH.exe
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\bin\Debug\SRLATCH.pdb
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\obj\Debug\SRLATCH.csprojAssemblyReference.cache
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\obj\Debug\SRLATCH.csproj.CoreCompileInputs.cache
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\obj\Debug\SRLATCH.exe
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\obj\Debug\SRLATCH.pdb
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\bin\Debug\LogicCircuit.dll
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\bin\Debug\LogicCircuit.pdb
+C:\Users\BlackBirdX\source\repos\SRLATCH\SRLATCH\obj\Debug\SRLATCH.csproj.CopyComplete
