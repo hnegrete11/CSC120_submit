@@ -19,7 +19,6 @@ namespace PartB
             logicCircuitOR.SetInputB(SetInputD);
             logicCircuitNOT.SetInputA(logicCircuitOR);
             return logicCircuitNOT.Output;
-
         }
     }
 }

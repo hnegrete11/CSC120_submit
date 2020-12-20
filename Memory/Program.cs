@@ -10,8 +10,8 @@ namespace Memory
     {
         static void Main(string[] args)
         {
-            SimulateMemory();
-            Conversion();
+            //SimulateMemory();
+            // Conversion();
             var inputPutDataFile = @"C:\Data\inputdata.txt";
             var truthTableInputs = Storage.ReadTruthTableData(inputPutDataFile);
 
@@ -40,7 +40,7 @@ namespace Memory
         private static void SimulateMemory()
         {
             var a = 100;
-            var storedValue = 1;//Storage.ReadData();
+            var storedValue = Storage.ReadData();
             if (storedValue > 0)
             {
                 a = storedValue;

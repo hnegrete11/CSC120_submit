@@ -5,10 +5,10 @@ C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.csprojAssemblyRefer
 C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
 C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.exe
 C:\Users\Dinesh Sthapit\source\repos\Memory\obj\Debug\Memory.pdb
-D:\Assignment\aaa888\Memory\bin\Debug\Memory.exe.config
-D:\Assignment\aaa888\Memory\bin\Debug\Memory.exe
-D:\Assignment\aaa888\Memory\bin\Debug\Memory.pdb
-D:\Assignment\aaa888\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
-D:\Assignment\aaa888\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
-D:\Assignment\aaa888\Memory\obj\Debug\Memory.exe
-D:\Assignment\aaa888\Memory\obj\Debug\Memory.pdb
+D:\Assignment\aaa888\Elect\Memory\bin\Debug\Memory.exe.config
+D:\Assignment\aaa888\Elect\Memory\bin\Debug\Memory.exe
+D:\Assignment\aaa888\Elect\Memory\bin\Debug\Memory.pdb
+D:\Assignment\aaa888\Elect\Memory\obj\Debug\Memory.csprojAssemblyReference.cache
+D:\Assignment\aaa888\Elect\Memory\obj\Debug\Memory.csproj.CoreCompileInputs.cache
+D:\Assignment\aaa888\Elect\Memory\obj\Debug\Memory.exe
+D:\Assignment\aaa888\Elect\Memory\obj\Debug\Memory.pdb
