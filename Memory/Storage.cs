@@ -31,7 +31,7 @@ namespace Memory
             }
             var data = File.ReadAllText(STORAGE);
             var inValue = int.Parse(data);
-            return inValue;
+                return inValue;
         }
 
 

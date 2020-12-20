@@ -10,8 +10,8 @@ namespace Memory
     {
         static void Main(string[] args)
         {
-            //SimulateMemory();
-            // Conversion();
+            SimulateMemory();
+            Conversion();
             var inputPutDataFile = @"C:\Data\inputdata.txt";
             var truthTableInputs = Storage.ReadTruthTableData(inputPutDataFile);
 
@@ -52,6 +52,7 @@ namespace Memory
             {
                 Storage.SaveData(a);
                 Console.WriteLine($"Print Current Stored Value {i}");
+
                 a = i;
             }
 
