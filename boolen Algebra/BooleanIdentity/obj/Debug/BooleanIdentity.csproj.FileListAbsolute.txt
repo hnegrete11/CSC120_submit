@@ -1,0 +1,6 @@
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\BooleanIdentity\bin\Debug\BooleanIdentity.exe.config
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\BooleanIdentity\bin\Debug\BooleanIdentity.exe
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\BooleanIdentity\bin\Debug\BooleanIdentity.pdb
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\BooleanIdentity\obj\Debug\BooleanIdentity.csproj.CoreCompileInputs.cache
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\BooleanIdentity\obj\Debug\BooleanIdentity.exe
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\BooleanIdentity\obj\Debug\BooleanIdentity.pdb

@@ -1,0 +1,10 @@
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\bin\Debug\PartA.exe.config
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\bin\Debug\PartA.exe
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\bin\Debug\PartA.pdb
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\bin\Debug\LogicCircuit.dll
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\bin\Debug\LogicCircuit.pdb
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\obj\Debug\PartA.csprojAssemblyReference.cache
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\obj\Debug\PartA.csproj.CoreCompileInputs.cache
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\obj\Debug\PartA.csproj.CopyComplete
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\obj\Debug\PartA.exe
+C:\Users\BlackBirdX\Desktop\Week3-BoolenIdentity\PartA\obj\Debug\PartA.pdb

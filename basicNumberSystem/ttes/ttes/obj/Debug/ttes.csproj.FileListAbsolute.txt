@@ -1,0 +1,7 @@
+C:\Users\BlackBirdX\source\repos\ttes\ttes\bin\Debug\ttes.exe.config
+C:\Users\BlackBirdX\source\repos\ttes\ttes\bin\Debug\ttes.exe
+C:\Users\BlackBirdX\source\repos\ttes\ttes\bin\Debug\ttes.pdb
+C:\Users\BlackBirdX\source\repos\ttes\ttes\obj\Debug\ttes.csprojAssemblyReference.cache
+C:\Users\BlackBirdX\source\repos\ttes\ttes\obj\Debug\ttes.csproj.CoreCompileInputs.cache
+C:\Users\BlackBirdX\source\repos\ttes\ttes\obj\Debug\ttes.exe
+C:\Users\BlackBirdX\source\repos\ttes\ttes\obj\Debug\ttes.pdb
