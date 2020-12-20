@@ -79,6 +79,7 @@ namespace Memory
             var inputList = new List<TruthTable>();
             var fs = new FileStream(dataPath, FileMode.Open);
             var sr = new StreamReader(fs);
+
             while (sr.Peek() > -1) // peek and read till End of File
             {
                 var inputRow = new TruthTable();
