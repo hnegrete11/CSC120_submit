@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\BlackBirdX\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\BlackBirdX\\.nuget\\packages"
+    ]
+  }
+}

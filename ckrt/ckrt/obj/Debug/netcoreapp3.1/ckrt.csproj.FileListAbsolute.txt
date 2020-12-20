@@ -1,0 +1,13 @@
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\bin\Debug\netcoreapp3.1\ckrt.exe
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\bin\Debug\netcoreapp3.1\ckrt.deps.json
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\bin\Debug\netcoreapp3.1\ckrt.runtimeconfig.json
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\bin\Debug\netcoreapp3.1\ckrt.runtimeconfig.dev.json
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\bin\Debug\netcoreapp3.1\ckrt.dll
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\bin\Debug\netcoreapp3.1\ckrt.pdb
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\obj\Debug\netcoreapp3.1\ckrt.csprojAssemblyReference.cache
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\obj\Debug\netcoreapp3.1\ckrt.AssemblyInfoInputs.cache
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\obj\Debug\netcoreapp3.1\ckrt.AssemblyInfo.cs
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\obj\Debug\netcoreapp3.1\ckrt.csproj.CoreCompileInputs.cache
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\obj\Debug\netcoreapp3.1\ckrt.dll
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\obj\Debug\netcoreapp3.1\ckrt.pdb
+C:\Users\BlackBirdX\source\repos\ckrt\ckrt\obj\Debug\netcoreapp3.1\ckrt.genruntimeconfig.cache
