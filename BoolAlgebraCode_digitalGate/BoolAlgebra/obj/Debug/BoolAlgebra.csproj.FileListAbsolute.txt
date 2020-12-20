@@ -1,0 +1,10 @@
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\bin\Debug\BoolAlgebra.exe.config
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\bin\Debug\BoolAlgebra.exe
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\bin\Debug\BoolAlgebra.pdb
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\bin\Debug\LogicCircuit.dll
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\bin\Debug\LogicCircuit.pdb
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.csprojAssemblyReference.cache
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.csproj.CoreCompileInputs.cache
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.csproj.CopyComplete
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.exe
+C:\Users\BlackBirdX\source\repos\BoolAlgebra\BoolAlgebra\obj\Debug\BoolAlgebra.pdb
